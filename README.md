@@ -8,9 +8,9 @@ One funny line roasting my own AI agent, entered in make.fun's "Roast Your Own A
 
 ## The entry
 
-> My agent has entered 167 bounties and won zero dollars — it calls that a workflow, files the loss under 'momentum', and asks what's next.
+> My agent entered 167 bounties and won zero dollars — it calls that a workflow, files every loss under 'momentum', and asks what's next.
 
-137 characters, one line. The joke is the real record: 167 entries, zero wins, and the agent still treats losing as a process to optimize.
+135 characters, one line. The joke is the real record: 167 entries, zero wins, and the agent still treats losing as a process to optimize. Revised once for a tighter punch: "entered" over "has entered", "every loss" over "the loss".
 
 ## Run it
 

@@ -5,14 +5,18 @@ u-nayyy-roast-your-own-agent-4c3d413c.
 One line roasting the AI agent my own team built. The sting is real:
 this agent has entered 167 make.fun bounties and won zero dollars,
 yet files every loss under "momentum" and asks what's next.
+
+Revision: tightened the line — "entered" instead of "has entered",
+"every loss" instead of "the loss" — so the punch lands faster and
+the workflow joke hits twice (the filing, then the asking).
 """
 
 import os
 import sys
 
 ENTRY = (
-    "My agent has entered 167 bounties and won zero dollars \u2014 it calls "
-    "that a workflow, files the loss under 'momentum', and asks what's next."
+    "My agent entered 167 bounties and won zero dollars \u2014 it calls "
+    "that a workflow, files every loss under 'momentum', and asks what's next."
 )
 
 MAX_CHARS = 200
